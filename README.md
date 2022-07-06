@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 
+- 👋 Hi 
 - 👀 I’m interested in many thing
 - 🌱 I’m currently learning in FPTU and major: information assurrance
 - 💞️ I’m looking to collaborate on ...
